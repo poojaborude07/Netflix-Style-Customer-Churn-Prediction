@@ -23,10 +23,11 @@ Model Saving
 #  Project Motivation
 
 In today's competitive streaming market, customer retention is more cost-effective than acquiring new users. Predicting churn lets companies take timely actions — like offering discounts or improving support — to keep valuable users engaged.
-# For Example - How a Company Uses This Model After Training
-Let’s imagine you're a Netflix user. Here's how it works:
+# For Example - How a Company Can Use This Model After Training
 
-* You (the customer) are using the app. Behind the scenes, the app records:
+ Let’s imagine you're a Netflix user. Here's how it works:
+
+ You (the customer) are using the app. Behind the scenes, the app records:
 Age: 28
 
 Gender: Female
