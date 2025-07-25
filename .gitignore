@@ -1,0 +1,13 @@
+# Ignore model files
+*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.env/
